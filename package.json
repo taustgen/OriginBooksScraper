@@ -1,0 +1,18 @@
+{
+  "name": "originbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ob.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "cheerio": "^0.22.0",
+    "jsdom": "^10.0.0",
+    "node": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
